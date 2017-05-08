@@ -53,8 +53,6 @@ bot.on('message', (msg) => {
 
 <p>Simples e muito útil! Quando eu migrei pro Linux e via a galera mandando rodar vários comandos no terminal sempre ficava com aquele pé atrás, acho que acontece com todo mundo. Hoje eu já estou usando uma distro mais hipster do Linux com facilidade mas a dois anos atrás esse Bot teria sido uma mão na roda pra mim. Se você conhece alguém que está nesse mesmo cenário, manda o Bot XplainShell para ele!</p>
 
-<p>Se você chegou até aqui não esqueça de deixar o seu ❤ e/ou um comentário. I ❤ seu Feedback. Se você tem interesse por Bots ou gostou do meu texto você pode ler algum dos meus outros artigos, recomendo:</p>
-
 - 1. Telegram Bot — Como desenvolver seu Bot utilizando Ruby e Heroku(https://medium.com/tableless/telegram-bot-como-fazer-um-bot-com-ruby-e-heroku-a2bc384ab18e)
 - 2. Docker — Dockerhub, pull e push nas suas imagens(https://medium.com/tableless/docker-dockerhub-pull-e-push-nas-suas-imagens-57dffa0232ad)
 - 3. TDD — Test Driven Development(https://medium.com/tableless/tdd-test-driven-development-71ad9a69d465)

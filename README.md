@@ -1,6 +1,5 @@
 # Lab bot
 
-<p>Aqui estou mais um dia... :) 
-Então vamos lá criei este repo para que eu possa aprender mais sobre bot e tbm na criação dele do bot (rsrsrs) então vamo que vamo garera!</p>
+###### Criei este repositório para que eu possa aprender mais sobre BOTs e também no desenvolvimento deles e entender mais e mais. É NOIS!!!
 
 <b>Toda a contribuição é bem vinda! They!!!</b>
